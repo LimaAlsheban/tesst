@@ -1,8 +1,3 @@
-# Students:
-# Jana Abdurhman    444820821
-# Lima Al Sheban    445803902
-# Raghad Ahmed Ali  445803851
-# Lama AbdulAziz Ali 445803974
 
 install.packages("RSentiment") 
 library("RSentiment") 
